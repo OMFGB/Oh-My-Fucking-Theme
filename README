@@ -7,10 +7,3 @@ All of the png's I added have the app com name in the begining of the png name. 
 
 Now go have some fun :)
 
-For easy batch renaming of files to match this template, use 
-
-for i in *; do j=`echo $i | cut -d . -f 1`; j="whatever_package_name"$j".png"; mv $i $j; done
-
-For example, when renaming latinime drawables, it would look like
-
-for i in *; do j=`echo $i | cut -d . -f 1`; j="com_android_inputmethod_latin_"$j".png"; mv $i $j; done
