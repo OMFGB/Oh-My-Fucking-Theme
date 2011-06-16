@@ -25,8 +25,8 @@
     <uses-feature android:name="com.tmobile.software.themes" />
 
     <theme
-        pluto:themeId="Templatebread"
-        pluto:styleId="@style/Templatebread"
+        pluto:themeId="OMFT"
+        pluto:styleId="@style/OMFT"
         pluto:name="@string/theme_name"
         pluto:preview="@drawable/preview"
         pluto:author="@string/author"
