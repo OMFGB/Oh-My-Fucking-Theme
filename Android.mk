@@ -3,7 +3,7 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := Templatebread
+LOCAL_PACKAGE_NAME := OMFT
 
 LOCAL_AAPT_FLAGS := -c hdpi -x 10
 
