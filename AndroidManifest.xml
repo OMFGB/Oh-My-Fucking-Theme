@@ -18,7 +18,7 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
-    package="com.template.theme.Templatebread"
+    package="com.t3hh4xx0r.theme.omft"
     android:hasCode="false">
 
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
