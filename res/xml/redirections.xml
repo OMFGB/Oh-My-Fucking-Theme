@@ -2,6 +2,7 @@
 <theme-redirections
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
     <package-redirections android:name="android" android:resource="@xml/android" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.inputmethod.latin" android:resource="@xml/com_android_inputmethod_latin" android:minSdkVersion="7" />
 </theme-redirections>
 
 
