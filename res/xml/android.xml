@@ -35,7 +35,6 @@
 <item name="drawable/frameworks_res_btn_plus_disable_focused">@drawable/frameworks_res_frameworks_res_btn_plus_disable_focused</item>
 <item name="drawable/frameworks_res_btn_plus_pressed">@drawable/frameworks_res_frameworks_res_btn_plus_pressed</item>
 <item name="drawable/frameworks_res_btn_plus_selected">@drawable/frameworks_res_frameworks_res_btn_plus_selected</item>
-<item name="drawable/frameworks_res_btn_radio_label_background">@drawable/frameworks_res_frameworks_res_btn_radio_label_background</item>
 <item name="drawable/frameworks_res_btn_radio_off_pressed">@drawable/frameworks_res_frameworks_res_btn_radio_off_pressed</item>
 <item name="drawable/frameworks_res_btn_radio_off_selected">@drawable/frameworks_res_frameworks_res_btn_radio_off_selected</item>
 <item name="drawable/frameworks_res_btn_radio_on">@drawable/frameworks_res_frameworks_res_btn_radio_on</item>
@@ -100,7 +99,6 @@
 <item name="drawable/frameworks_res_rate_star_med_on">@drawable/frameworks_res_frameworks_res_rate_star_med_on</item>
 <item name="drawable/frameworks_res_rate_star_small_half">@drawable/frameworks_res_frameworks_res_rate_star_small_half</item>
 <item name="drawable/frameworks_res_rate_star_small_on">@drawable/frameworks_res_frameworks_res_rate_star_small_on</item>
-<item name="drawable/frameworks_res_recent_dialog_background">@drawable/frameworks_res_frameworks_res_recent_dialog_background</item>
 <item name="drawable/frameworks_res_seek_thumb_pressed">@drawable/frameworks_res_frameworks_res_seek_thumb_pressed</item>
 <item name="drawable/frameworks_res_seek_thumb_selected">@drawable/frameworks_res_frameworks_res_seek_thumb_selected</item>
 <item name="drawable/frameworks_res_spinner_press">@drawable/frameworks_res_frameworks_res_spinner_press</item>
@@ -108,11 +106,7 @@
 <item name="drawable/frameworks_res_status_bar_item_background_focus">@drawable/frameworks_res_frameworks_res_status_bar_item_background_focus</item>
 <item name="drawable/frameworks_res_status_bar_item_background_pressed">@drawable/frameworks_res_frameworks_res_status_bar_item_background_pressed</item>
 <item name="drawable/frameworks_res_tab_focus">@drawable/frameworks_res_frameworks_res_tab_focus</item>
-<item name="drawable/frameworks_res_tab_focus_bar_left">@drawable/frameworks_res_frameworks_res_tab_focus_bar_left</item>
-<item name="drawable/frameworks_res_tab_focus_bar_right">@drawable/frameworks_res_frameworks_res_tab_focus_bar_right</item>
 <item name="drawable/frameworks_res_tab_press">@drawable/frameworks_res_frameworks_res_tab_press</item>
-<item name="drawable/frameworks_res_tab_press_bar_left">@drawable/frameworks_res_frameworks_res_tab_press_bar_left</item>
-<item name="drawable/frameworks_res_tab_press_bar_right">@drawable/frameworks_res_frameworks_res_tab_press_bar_right</item>
 <item name="drawable/frameworks_res_text_select_handle_left">@drawable/frameworks_res_frameworks_res_text_select_handle_left</item>
 <item name="drawable/frameworks_res_text_select_handle_middle">@drawable/frameworks_res_frameworks_res_text_select_handle_middle</item>
 <item name="drawable/frameworks_res_text_select_handle_right">@drawable/frameworks_res_frameworks_res_text_select_handle_right</item>
